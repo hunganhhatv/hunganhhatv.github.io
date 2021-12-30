@@ -19,7 +19,7 @@ Architecture: iphoneos-arm
 Description: Cài đặt mật khẩu màn hình cho thiết bị chạy chip A11 trở lên, jailbreak bằng checkra1n.
 Maintainer: hunganhhumg <hunganhhumg@gmail.com>
 Author: hunganhhumg <hunganhhumg@gmail.com>
-Section: Theme
+Section: Tweaks
 Filename: ./debs/Lockdown.deb
 Size: 19684
 MD5sum: 91081BA41060FCF5816D767297B3AE62
